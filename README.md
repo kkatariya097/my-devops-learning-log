@@ -15,6 +15,7 @@ I'm transitioning into a DevOps / Cloud role and wanted a public, honest record 
 
 ## Topics I'm covering (roughly in order)
 
+- [ ] DevOps Basics
 - [ ] Linux fundamentals & shell scripting
 - [ ] Git & version control workflows
 - [ ] Networking basics
@@ -29,9 +30,9 @@ I'm transitioning into a DevOps / Cloud role and wanted a public, honest record 
 
 ## Log entries
 
-| Date | Topic | Notes |
+| Date | Days | Notes |
 |------|-------|-------|
-| [2026-08-01](logs/01-AUG-2026.md) | Getting started | Setting up this repo, planning the roadmap |
+| [2026-08-01](logs/01-AUG-2026.md) | Day 1 | What is Devops? and Why DevOps? |
 
 ## Projects
 
