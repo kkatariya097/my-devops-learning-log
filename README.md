@@ -1,5 +1,3 @@
-# my-devops-learning-log
-Documenting learning process
 # DevOps Learning Log 🚀
 
 Documenting my journey learning DevOps from scratch — what I learn, what I build, and what I get stuck on along the way.
@@ -33,7 +31,7 @@ I'm transitioning into a DevOps / Cloud role and wanted a public, honest record 
 
 | Date | Topic | Notes |
 |------|-------|-------|
-| [2026-08-03](logs/03-AUG-2026.md) | Getting started | Setting up this repo, planning the roadmap |
+| [2026-08-01](logs/01-AUG-2026.md) | Getting started | Setting up this repo, planning the roadmap |
 
 ## Projects
 
